@@ -1,0 +1,14 @@
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\WIN7\source\repos\SmartCoach\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
